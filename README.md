@@ -1,2 +1,4 @@
 # Hello-World
-First GIT
+First git
+I'm Amy, hello!
+
